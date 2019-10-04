@@ -1,0 +1,2633 @@
+{
+  "meta": {
+    "total_count": 70,
+    "lon": -122.3423132,
+    "next": "/api/v2/locations/?within_business=true&near_lat=47.6139327&business_id=338830&limit=20&offset=20&threshold=2000&near_lon=-122.3423132&services__in=",
+    "limit": 20,
+    "offset": 0,
+    "lat": 47.6139327,
+    "previous": null
+  },
+  "objects": [
+    {
+      "phonemap_e164": {
+        "phone": "+17208648060"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(720) 864-8060",
+          "e164": "+17208648060",
+          "disable_autoformat": false,
+          "location_id": 352388,
+          "id": 72655719,
+          "resource_uri": "/api/v2/phones/72655719/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "1750 N Main St",
+      "postal_code": "80501",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352388,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/longmont-80501-24865",
+      "city": "Longmont",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352388/",
+      "formatted_address": "1750 N Main St, Longmont CO 80501",
+      "private_street": null,
+      "lon": "-105.10085240000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:34:33",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(720) 864-8060"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "40.19095840000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 996.6585790368455,
+      "partner_location_id": "100485858",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:43:57",
+      "tagline": null,
+      "geocoded": "1750 Main St, Longmont, CO 80501, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+19703567498"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(970) 356-7498",
+          "e164": "+19703567498",
+          "disable_autoformat": false,
+          "location_id": 352419,
+          "id": 72658827,
+          "resource_uri": "/api/v2/phones/72658827/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "816 25th St",
+      "postal_code": "80631",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352419,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/greeley-80631-24564",
+      "city": "Greeley",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352419/",
+      "formatted_address": "816 25th St, Greeley CO 80631",
+      "private_street": null,
+      "lon": "-104.69240070000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:36:39",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(970) 356-7498"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "40.39663180000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1005.6708918332489,
+      "partner_location_id": "100485710",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T13:02:49",
+      "tagline": null,
+      "geocoded": "816 25th St, Greeley, CO 80631, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13033392610"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 339-2610",
+          "e164": "+13033392610",
+          "disable_autoformat": false,
+          "location_id": 352765,
+          "id": 72656247,
+          "resource_uri": "/api/v2/phones/72656247/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "3045 W 74th Ave",
+      "postal_code": "80030",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352765,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/westminster-80030-24949",
+      "city": "Westminster",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352765/",
+      "formatted_address": "3045 W 74th Ave, Westminster CO 80030",
+      "private_street": null,
+      "lon": "-105.02678700000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:00:54",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 339-2610"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.83174190000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1014.7802304818072,
+      "partner_location_id": "100485903",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:58:17",
+      "tagline": null,
+      "geocoded": "3045 W 74th Ave, Westminster, CO 80030, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13034689700"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 468-9700",
+          "e164": "+13034689700",
+          "disable_autoformat": false,
+          "location_id": 352163,
+          "id": 72655499,
+          "resource_uri": "/api/v2/phones/72655499/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "630 W 84th Ave",
+      "postal_code": "80260",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352163,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/thornton-80260-24387",
+      "city": "Thornton",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352163/",
+      "formatted_address": "630 W 84th Ave, Thornton CO 80260",
+      "private_street": null,
+      "lon": "-104.99463720000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:19:57",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 468-9700"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.84901240000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1015.4022145230014,
+      "partner_location_id": "100485637",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:35:49",
+      "tagline": null,
+      "geocoded": "630 W 84th Ave, Thornton, CO 80260, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "20:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "19:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17202353900"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(720) 235-3900",
+          "e164": "+17202353900",
+          "disable_autoformat": false,
+          "location_id": 352429,
+          "id": 72655761,
+          "resource_uri": "/api/v2/phones/72655761/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "4860 Pecos St",
+      "postal_code": "80221",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352429,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/denver-80221-24983",
+      "city": "Denver",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352429/",
+      "formatted_address": "4860 Pecos St, Denver CO 80221",
+      "private_street": null,
+      "lon": "-105.00556510000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:37:18",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(720) 235-3900"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.78461060000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1017.6644169859468,
+      "partner_location_id": "100485920",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:45:30",
+      "tagline": null,
+      "geocoded": "4860 N Pecos St, Denver, CO 80221, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13032881747"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 288-1747",
+          "e164": "+13032881747",
+          "disable_autoformat": false,
+          "location_id": 352109,
+          "id": 72655720,
+          "resource_uri": "/api/v2/phones/72655720/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "7290 Monaco St",
+      "postal_code": "80022",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352109,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/commerce-city-80022-24866",
+      "city": "Commerce City",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352109/",
+      "formatted_address": "7290 Monaco St, Commerce City CO 80022",
+      "private_street": null,
+      "lon": "-104.91178320000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:16:13",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 288-1747"
+      },
+      "todays_hours_of_operation": "8:00 AM - 10:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.82907400000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1019.7263164171317,
+      "partner_location_id": "100485859",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:43:59",
+      "tagline": null,
+      "geocoded": "7290 Monaco St, Commerce City, CO 80022, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13039350880"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 935-0880",
+          "e164": "+13039350880",
+          "disable_autoformat": false,
+          "location_id": 352872,
+          "id": 72659067,
+          "resource_uri": "/api/v2/phones/72659067/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "4255 W Florida Ave",
+      "postal_code": "80219",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352872,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/denver-80219-23885",
+      "city": "Denver",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352872/",
+      "formatted_address": "4255 W Florida Ave, Denver CO 80219",
+      "private_street": null,
+      "lon": "-105.04279510000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:09:31",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 935-0880"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.69041240000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1020.1087302791069,
+      "partner_location_id": "100485490",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T13:08:43",
+      "tagline": null,
+      "geocoded": "4255 W Florida Ave, Denver, CO 80219, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13034070430"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 407-0430",
+          "e164": "+13034070430",
+          "disable_autoformat": false,
+          "location_id": 352603,
+          "id": 72655984,
+          "resource_uri": "/api/v2/phones/72655984/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "1951 S Federal Blvd",
+      "postal_code": "80219",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352603,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/denver-80219-24877",
+      "city": "Denver",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352603/",
+      "formatted_address": "1951 S Federal Blvd, Denver CO 80219",
+      "private_street": null,
+      "lon": "-105.02592600000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:49:00",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 407-0430"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.68127010000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1021.2043756476824,
+      "partner_location_id": "100485865",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:52:05",
+      "tagline": null,
+      "geocoded": "1951 S Federal Blvd, Denver, CO 80219, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13033212821"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 321-2821",
+          "e164": "+13033212821",
+          "disable_autoformat": false,
+          "location_id": 353156,
+          "id": 72655970,
+          "resource_uri": "/api/v2/phones/72655970/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "7150 Leetsdale Dr",
+      "postal_code": "80224",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 353156,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/denver-80224-45162",
+      "city": "Denver",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/353156/",
+      "formatted_address": "7150 Leetsdale Dr, Denver CO 80224",
+      "private_street": null,
+      "lon": "-104.90521370000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:28:21",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 321-2821"
+      },
+      "todays_hours_of_operation": "9:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.69763960000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1025.5625464074246,
+      "partner_location_id": "100486065",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:51:42",
+      "tagline": null,
+      "geocoded": "7150 Leetsdale Dr, Denver, CO 80224, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17205102723"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(720) 510-2723",
+          "e164": "+17205102723",
+          "disable_autoformat": false,
+          "location_id": 352782,
+          "id": 72656280,
+          "resource_uri": "/api/v2/phones/72656280/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "4874 Chambers Rd",
+      "postal_code": "80239",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352782,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/denver-80239-45154",
+      "city": "Denver",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352782/",
+      "formatted_address": "4874 Chambers Rd, Denver CO 80239",
+      "private_street": null,
+      "lon": "-104.80948660000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:02:06",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(720) 510-2723"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.78567940000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1025.8584866764484,
+      "partner_location_id": "100486057",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:59:07",
+      "tagline": null,
+      "geocoded": "4874 Chambers Rd, Denver, CO 80239, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13033650393"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(303) 365-0393",
+          "e164": "+13033650393",
+          "disable_autoformat": false,
+          "location_id": 352802,
+          "id": 72656311,
+          "resource_uri": "/api/v2/phones/72656311/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "698 Peoria St",
+      "postal_code": "80011",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352802,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/aurora-80011-24826",
+      "city": "Aurora",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352802/",
+      "formatted_address": "698 Peoria St, Aurora CO 80011",
+      "private_street": null,
+      "lon": "-104.84432180000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:03:29",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(303) 365-0393"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.72714610000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1026.8662303486144,
+      "partner_location_id": "100485835",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:59:54",
+      "tagline": null,
+      "geocoded": "698 Peoria St, Aurora, CO 80011, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17203432011"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(720) 343-2011",
+          "e164": "+17203432011",
+          "disable_autoformat": false,
+          "location_id": 352657,
+          "id": 72656078,
+          "resource_uri": "/api/v2/phones/72656078/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "15220 E 6th Ave",
+      "postal_code": "80011",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352657,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/aurora-80011-24694",
+      "city": "Aurora",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352657/",
+      "formatted_address": "15220 E 6th Ave, Aurora CO 80011",
+      "private_street": null,
+      "lon": "-104.81217490000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:53:12",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(720) 343-2011"
+      },
+      "todays_hours_of_operation": "8:00 AM - 10:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "39.72443330000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1028.331441525434,
+      "partner_location_id": "100485764",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:54:14",
+      "tagline": null,
+      "geocoded": "15220 E 6th Ave, Aurora, CO 80011, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17194006489"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(719) 400-6489",
+          "e164": "+17194006489",
+          "disable_autoformat": false,
+          "location_id": 353114,
+          "id": 72659238,
+          "resource_uri": "/api/v2/phones/72659238/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "3336 Academy Blvd North",
+      "postal_code": "80917",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 353114,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/colorado-springs-80917-45136",
+      "city": "Colorado Springs",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/353114/",
+      "formatted_address": "3336 Academy Blvd North, Colorado Springs CO 80917",
+      "private_street": null,
+      "lon": "-104.75711200000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:25:37",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(719) 400-6489"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "38.87979510000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1067.310574165873,
+      "partner_location_id": "100486042",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T13:13:13",
+      "tagline": null,
+      "geocoded": "3336 N Academy Blvd, Colorado Springs, CO 80917, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17195205620"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(719) 520-5620",
+          "e164": "+17195205620",
+          "disable_autoformat": false,
+          "location_id": 352801,
+          "id": 72656309,
+          "resource_uri": "/api/v2/phones/72656309/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "405 South Circle Dr",
+      "postal_code": "80910",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352801,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/colorado-springs-80910-24827",
+      "city": "Colorado Springs",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352801/",
+      "formatted_address": "405 South Circle Dr, Colorado Springs CO 80910",
+      "private_street": null,
+      "lon": "-104.77935090000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:03:25",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(719) 520-5620"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "38.82476380000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1068.8514820508071,
+      "partner_location_id": "100485834",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:59:52",
+      "tagline": null,
+      "geocoded": "405 S Circle Dr, Colorado Springs, CO 80910, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17195446057"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Colorado",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(719) 544-6057",
+          "e164": "+17195446057",
+          "disable_autoformat": false,
+          "location_id": 352314,
+          "id": 72655645,
+          "resource_uri": "/api/v2/phones/72655645/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "1110 Bonforte Blvd",
+      "postal_code": "81001",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352314,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/pueblo-81001-23844",
+      "city": "Pueblo",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352314/",
+      "formatted_address": "1110 Bonforte Blvd, Pueblo CO 81001",
+      "private_street": null,
+      "lon": "-104.59457220000000",
+      "state": "CO",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:29:41",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(719) 544-6057"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "38.28835370000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1100.6706161035959,
+      "partner_location_id": "100485478",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:41:16",
+      "tagline": null,
+      "geocoded": "1110 Bonforte Blvd, Pueblo, CO 81001, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17122242080"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Iowa",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(712) 224-2080",
+          "e164": "+17122242080",
+          "disable_autoformat": false,
+          "location_id": 352402,
+          "id": 72655735,
+          "resource_uri": "/api/v2/phones/72655735/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "1730 Pierce St",
+      "postal_code": "51105",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352402,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/sioux-city-51105-24967",
+      "city": "Sioux City",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352402/",
+      "formatted_address": "1730 Pierce St, Sioux City IA 51105",
+      "private_street": null,
+      "lon": "-96.40466380000000",
+      "state": "IA",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:35:29",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(712) 224-2080"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "42.50872690000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1307.2817346509084,
+      "partner_location_id": "100485911",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:44:32",
+      "tagline": null,
+      "geocoded": "1730 Pierce St, Sioux City, IA 51105, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+17854529600"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Kansas",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(785) 452-9600",
+          "e164": "+17854529600",
+          "disable_autoformat": false,
+          "location_id": 352259,
+          "id": 72655594,
+          "resource_uri": "/api/v2/phones/72655594/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "511 E Iron Ave",
+      "postal_code": "67401",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352259,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/salina-67401-45029",
+      "city": "Salina",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352259/",
+      "formatted_address": "511 E Iron Ave, Salina KS 67401",
+      "private_street": null,
+      "lon": "-97.60405160000000",
+      "state": "KS",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T16:26:06",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(785) 452-9600"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "38.84080430000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1377.0667314190596,
+      "partner_location_id": "100485953",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:39:21",
+      "tagline": null,
+      "geocoded": "511 E Iron Ave, Salina, KS 67401, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "20:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13166881385"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Kansas",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(316) 688-1385",
+          "e164": "+13166881385",
+          "disable_autoformat": false,
+          "location_id": 365747,
+          "id": 72659225,
+          "resource_uri": "/api/v2/phones/72659225/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "2402 E 13th Street",
+      "postal_code": "67214",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 365747,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/wichita-67214-8076",
+      "city": "Wichita",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/365747/",
+      "formatted_address": "2402 E 13th Street, Wichita KS 67214",
+      "private_street": null,
+      "lon": "-97.30747890000000",
+      "state": "KS",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-05-22T18:26:47",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(316) 688-1385"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "37.70865480000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1435.4136664785535,
+      "partner_location_id": "100937747",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T13:12:43",
+      "tagline": null,
+      "geocoded": "2402 E 13th St N, Wichita, KS 67214, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "20:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+13166881337"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Kansas",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(316) 688-1337",
+          "e164": "+13166881337",
+          "disable_autoformat": false,
+          "location_id": 365739,
+          "id": 72655763,
+          "resource_uri": "/api/v2/phones/72655763/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "2404 George Washington Blvd",
+      "postal_code": "67218",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 365739,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/wichita-67218-8075",
+      "city": "Wichita",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/365739/",
+      "formatted_address": "2404 George Washington Blvd, Wichita KS 67218",
+      "private_street": null,
+      "lon": "-97.28716420000000",
+      "state": "KS",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-05-22T18:26:03",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(316) 688-1337"
+      },
+      "todays_hours_of_operation": "8:00 AM - 10:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "37.64957380000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1438.7355992235905,
+      "partner_location_id": "100937742",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-08T12:45:35",
+      "tagline": null,
+      "geocoded": "2404 George Washington Blvd, Wichita, KS 67210, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "22:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "09:00:00",
+            "20:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    },
+    {
+      "phonemap_e164": {
+        "phone": "+15152841404"
+      },
+      "bpp_url": null,
+      "neighborhood": null,
+      "state_name": "Iowa",
+      "periscope_url": null,
+      "phones": [
+        {
+          "extension": null,
+          "type": "phone",
+          "number": "(515) 284-1404",
+          "e164": "+15152841404",
+          "disable_autoformat": false,
+          "location_id": 352865,
+          "id": 72419797,
+          "resource_uri": "/api/v2/phones/72419797/"
+        }
+      ],
+      "image": null,
+      "service_areas": null,
+      "services": "[\"wheelchair-accessible\"]",
+      "street": "3200 SW 9th St",
+      "postal_code": "50315",
+      "images": [],
+      "weedmaps_url": null,
+      "snapchat_url": null,
+      "borough": null,
+      "gplus_url": null,
+      "id": 352865,
+      "custom_fields": {},
+      "location_url": "https://savealot.com/grocery-stores/des-moines-50315-24576",
+      "city": "Des Moines",
+      "location_name": null,
+      "resource_uri": "/api/v2/locations/352865/",
+      "formatted_address": "3200 SW 9th St, Des Moines IA 50315",
+      "private_street": null,
+      "lon": "-93.62676730000000",
+      "state": "IA",
+      "country_name": "United States of America",
+      "street2": null,
+      "youtube_url": null,
+      "angieslist_url": null,
+      "added": "2019-01-15T17:09:01",
+      "description": null,
+      "twitter_url": null,
+      "facebook_url": null,
+      "business_id": 338830,
+      "phonemap": {
+        "phone": "(515) 284-1404"
+      },
+      "todays_hours_of_operation": "8:00 AM - 9:00 PM",
+      "image_id": null,
+      "year_opened": null,
+      "user_id": null,
+      "contact_email": null,
+      "lat": "41.55499600000000",
+      "service_area_only": false,
+      "price_range": null,
+      "instagram_url": null,
+      "yelp_url": null,
+      "distance": 1464.3261356800674,
+      "partner_location_id": "100485714",
+      "pinterest_url": null,
+      "language": null,
+      "houzz_url": null,
+      "country": "US",
+      "hours_of_operation_notes": null,
+      "linkedin_url": null,
+      "modified": "2019-06-06T18:07:15",
+      "tagline": null,
+      "geocoded": "3200 SW 9th St, Des Moines, IA 50315, USA",
+      "homepage_url": null,
+      "automatic_latlon": true,
+      "hours_of_operation": [
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ],
+        [
+          [
+            "08:00:00",
+            "21:00:00"
+          ],
+          []
+        ]
+      ],
+      "google_places_id": null,
+      "leafly_url": null,
+      "payment_forms_notes": null,
+      "payment_forms": []
+    }
+  ]
+}
