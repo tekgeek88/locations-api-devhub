@@ -1,10 +1,9 @@
 import React from 'react';
 import LocationsListContainer from './LocationsListContainer';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App ui container" data-test="component-app">
       <LocationsListContainer />
     </div>
   );
