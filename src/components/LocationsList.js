@@ -8,23 +8,19 @@ const LocationsList = props => {
 
   /**
    * Helper method used to render a totalCount of the fetched locations
-   * If there are no locations we do not display an element at all.
+   * If there are no locations we do not display the dividing line that
+   * seperates the table and total count
    */
   const renderTotalCount = () => {
     const { count } = props;
-    if (!count) {
-      return (
-        <h3
-          className="ui header right aligned"
-          data-test="component-locationsListCount"
-        >
-          Fetched {count} location(s)
-        </h3>
-      );
-    }
     return (
-      <h3 className="ui dividing header right aligned">
-        Fetched {count} location(s)
+      <h3
+        className={
+          count ? "ui dividing header right aligned" : "ui header right aligned"
+        }
+        data-test="component-locationsListCount"
+      >
+        Fetched {count} location(s){" "}
       </h3>
     );
   };
